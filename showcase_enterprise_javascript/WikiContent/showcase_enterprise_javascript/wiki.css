@@ -17,6 +17,9 @@ pre {
     margin: 20px;
     background: #e3ffcf;
 }
+b, strong {
+     color: #f0ab00;
+}
 
 #header {
     position: fixed;
