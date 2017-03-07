@@ -17,5 +17,7 @@ response.println(worker.getName());
 worker.start();
 worker.join(); // to be able to print to the response
 
+response.println("Ciao!");
+
 response.flush();
 response.close();

@@ -1,16 +1,16 @@
 > You already know...
 ====================
 
-> … what the **Enterprise JavaScript** really is.
+> … what the **Enterprise JavaScript** really is
 ---
-> … you can use **Java** knowledge and expertise.
+> … you can use your **Java** knowledge and expertise
 ---
-> … you can join and contribute in the **definition** work
+> … you can join and contribute to the **API definition** work
 ---
-> … you know the reference implementation [Eclipse Dirigible](http://www.dirigible.io)
+> … the reference implementation: [Eclipse Dirigible](http://www.dirigible.io)
 ---
 
-[back](7_references.md)
+[home](1_welcome.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [next](7_references.md)
 
 
 
