@@ -8,6 +8,3 @@ References
 [home](1_welcome.md)
 
 
-
-
-
