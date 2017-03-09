@@ -11,7 +11,7 @@ Demo
 * Database Access
 * Files Access
 * Streams Management
-* Thereads Management
+* Threads Management
 * Websockets Server
 * SOAP Client
 

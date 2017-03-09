@@ -7,5 +7,5 @@
 > ###Nedelcho Delchev
 
 
-[next](1_welcome.md)
+[поехали!](2_whatis.md)
 
