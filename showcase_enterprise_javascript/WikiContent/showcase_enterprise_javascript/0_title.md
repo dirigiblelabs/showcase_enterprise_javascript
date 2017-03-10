@@ -1,11 +1,13 @@
 >
 > Enterprise JavaScript... What the Heck?
 ====================
-> SAP d-kom Sofia 2017
+> Eclipse Converge 2017
 
-> ###Vladimir Pavlov
-> ###Nedelcho Delchev
+> ###Vladimir Pavlov 
+> SAP Labs Bulgaria
 
 
-[поехали!](2_whatis.md)
+
+
+[poehali!](2_whatis.md)
 
