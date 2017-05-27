@@ -1,9 +1,10 @@
 >
 > Enterprise JavaScript... What the Heck?
 ====================
-> Eclipse Converge 2017
+> jPrime 2017
 
 > ###Vladimir Pavlov 
+> ###Nedelcho Delchev
 > SAP Labs Bulgaria
 
 
